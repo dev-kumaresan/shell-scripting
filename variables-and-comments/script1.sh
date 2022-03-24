@@ -15,3 +15,8 @@ echo The name is $name
 
 number=10
 echo The number is $number
+
+#USER DEFINED VARIABLE -  !!! WRONG DECLARATION !!!
+
+0number=10                                #begin with number in the variable, throw error
+echo The number is $0number
