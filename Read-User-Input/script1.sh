@@ -17,8 +17,7 @@ echo "The Names are : "$name1,$name2,$name3
 read -p 'Enter Name : ' Name
 echo "Name : "$Name
 
-# prompt credentials as hidden 
-# Example user password
+# Read Numbers
 
-read -sp 'Enter password : ' password
-echo "Password : " $password
+read -p 'Enter a number : ' number
+echo "The number is : " $number
