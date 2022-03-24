@@ -6,7 +6,12 @@ echo "Variables and comments"
 echo $HOME   #retreive home path
 echo $PWD    #reterive current working path
 
-#USER DEFINED VARIABLES
+#USER DEFINED VARIABLES - PRINT NAME (STRING)
 
 name=kumaresan
 echo The name is $name
+
+#USER DEFINED VARIABLE - PRINT NUMBER 
+
+number=10
+echo The number is $number
