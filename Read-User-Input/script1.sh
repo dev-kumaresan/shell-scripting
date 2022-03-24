@@ -19,3 +19,6 @@ echo "Name : "$Name
 
 # prompt credentials as hidden 
 # Example user password
+
+read -sp 'Enter password : ' password
+echo "Password : " $password
