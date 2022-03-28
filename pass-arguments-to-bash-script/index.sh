@@ -1,0 +1,1 @@
+#pass arguments to bash script
