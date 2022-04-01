@@ -1,5 +1,4 @@
 # if-elif-else
-
 count=11
 if [ $count -gt 20 ]
 then
